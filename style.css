@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(TO RIGHT, #23c5e2, #747272);
+}
+.container {
+    text-align: center;
+    margin-top: 10em;
+}
+.counter-match {
+    color: #fff;
+}
